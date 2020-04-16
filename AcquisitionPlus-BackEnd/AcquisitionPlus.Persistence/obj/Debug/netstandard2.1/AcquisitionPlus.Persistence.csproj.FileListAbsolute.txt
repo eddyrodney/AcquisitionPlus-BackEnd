@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\bin\Debug\netstandard2.1\AcquisitionPlus.Persistence.deps.json
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\bin\Debug\netstandard2.1\AcquisitionPlus.Persistence.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\bin\Debug\netstandard2.1\AcquisitionPlus.Persistence.pdb
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\bin\Debug\netstandard2.1\AcquisitionPlus.Business.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\bin\Debug\netstandard2.1\AcquisitionPlus.DAL.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\bin\Debug\netstandard2.1\AcquisitionPlus.Entities.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\bin\Debug\netstandard2.1\AcquisitionPlus.Business.pdb
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\bin\Debug\netstandard2.1\AcquisitionPlus.DAL.pdb
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\bin\Debug\netstandard2.1\AcquisitionPlus.Entities.pdb
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\obj\Debug\netstandard2.1\AcquisitionPlus.Persistence.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\obj\Debug\netstandard2.1\AcquisitionPlus.Persistence.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\obj\Debug\netstandard2.1\AcquisitionPlus.Persistence.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\obj\Debug\netstandard2.1\AcquisitionPlus.Persistence.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\obj\Debug\netstandard2.1\AcquisitionPlus.Persistence.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Persistence\obj\Debug\netstandard2.1\AcquisitionPlus.Persistence.pdb

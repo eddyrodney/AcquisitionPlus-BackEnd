@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Entities\bin\Debug\netstandard2.0\AcquisitionPlus.Entities.deps.json
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Entities\bin\Debug\netstandard2.0\AcquisitionPlus.Entities.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Entities\bin\Debug\netstandard2.0\AcquisitionPlus.Entities.pdb
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Entities\obj\Debug\netstandard2.0\AcquisitionPlus.Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Entities\obj\Debug\netstandard2.0\AcquisitionPlus.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Entities\obj\Debug\netstandard2.0\AcquisitionPlus.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Entities\obj\Debug\netstandard2.0\AcquisitionPlus.Entities.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Entities\obj\Debug\netstandard2.0\AcquisitionPlus.Entities.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\bin\Debug\netstandard2.1\AcquisitionPlus.DAL.deps.json
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\bin\Debug\netstandard2.1\AcquisitionPlus.DAL.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\bin\Debug\netstandard2.1\AcquisitionPlus.DAL.pdb
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\bin\Debug\netstandard2.1\AcquisitionPlus.Entities.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\bin\Debug\netstandard2.1\AcquisitionPlus.Entities.pdb
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\obj\Debug\netstandard2.1\AcquisitionPlus.DAL.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\obj\Debug\netstandard2.1\AcquisitionPlus.DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\obj\Debug\netstandard2.1\AcquisitionPlus.DAL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\obj\Debug\netstandard2.1\AcquisitionPlus.DAL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\obj\Debug\netstandard2.1\AcquisitionPlus.DAL.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.DAL\obj\Debug\netstandard2.1\AcquisitionPlus.DAL.pdb

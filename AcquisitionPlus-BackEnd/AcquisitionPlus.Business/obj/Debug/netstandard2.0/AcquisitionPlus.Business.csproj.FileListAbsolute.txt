@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\bin\Debug\netstandard2.0\AcquisitionPlus.Business.deps.json
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\bin\Debug\netstandard2.0\AcquisitionPlus.Business.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\bin\Debug\netstandard2.0\AcquisitionPlus.Business.pdb
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\bin\Debug\netstandard2.0\AcquisitionPlus.Entities.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\bin\Debug\netstandard2.0\AcquisitionPlus.Entities.pdb
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\obj\Debug\netstandard2.0\AcquisitionPlus.Business.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\obj\Debug\netstandard2.0\AcquisitionPlus.Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\obj\Debug\netstandard2.0\AcquisitionPlus.Business.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\obj\Debug\netstandard2.0\AcquisitionPlus.Business.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\obj\Debug\netstandard2.0\AcquisitionPlus.Business.dll
+C:\Users\Lenovo\Desktop\Project\AcquisitionPlus-BackEnd\AcquisitionPlus.Business\obj\Debug\netstandard2.0\AcquisitionPlus.Business.pdb
